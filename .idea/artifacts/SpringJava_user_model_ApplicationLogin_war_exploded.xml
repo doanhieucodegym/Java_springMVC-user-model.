@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SpringJava_user_model_ApplicationLogin:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringJava_user_model_ApplicationLogin_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SpringJava_user_model_ApplicationLogin/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SpringJava_user_model_ApplicationLogin" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring-4.3.18.RELEASE" />
+          <element id="library" level="project" name="Spring MVC-4.3.18.RELEASE" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
